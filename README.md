@@ -1,4 +1,4 @@
-# Financial Market Analytics: Apple vs S&P 500
+# Time-Series Performance Analysis: Apple vs S&P 500
 
 ## Overview
 This project performs a comparative financial analysis between Apple Inc. (AAPL) and the S&P 500 index using historical market data.  
